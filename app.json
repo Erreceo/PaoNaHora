@@ -1,0 +1,12 @@
+{
+  "name": "PaoNaHora",
+  "displayName": "PaoNaHora",
+  "expo": {
+    "name": "PaoNaHora",
+    "slug": "PaoNaHora",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
